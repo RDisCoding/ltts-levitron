@@ -1,0 +1,12 @@
+{
+  "source_file": "input/Sequence Of Operations.pdf",
+  "tables_discovered": 1,
+  "selected_table_index": null,
+  "rows_processed": 3,
+  "columns_processed": 22,
+  "normalization_actions": [
+    "Trim Whitespace",
+    "Normalize Unicode",
+    "Evaluate Boolean Markers"
+  ]
+}

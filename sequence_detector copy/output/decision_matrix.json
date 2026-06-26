@@ -1,0 +1,20 @@
+{
+  "matrix": {
+    "CONFERENCE, BREAK ROOM": {
+      "MANUAL CONTROL SWITCH": true,
+      "MANUAL CONTROL TIMER SWITCH": false,
+      "MANUAL CONTROL DIMMER OF SCENE CONTROL": true,
+      "AUTOMATIC ON/OFF CONTROL TIMECLOCK": false,
+      "AUTOMATIC ON/OFF CONTROL OCCUPANCY SENSOR": true,
+      "AUTOMATIC ON/OFF CONTROL PHOTOCELL": false,
+      "AUTOMATIC ON/OFF CONTROL MOTION SENSOR": false,
+      "SETTINGS FULL ON": true,
+      "SETTINGS PARTIAL ON": false,
+      "SETTINGS PARTIAL OFF": true,
+      "SETTINGS FULL OFF": true,
+      "SETTINGS MANUAL ON": false,
+      "OTHER": false,
+      "COMMENTS": false
+    }
+  }
+}

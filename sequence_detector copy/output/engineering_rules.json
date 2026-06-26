@@ -1,0 +1,67 @@
+{
+  "rules": [
+    {
+      "room": {
+        "name": "CONFERENCE, BREAK ROOM"
+      },
+      "requirements": [
+        {
+          "device_name": "MANUAL CONTROL SWITCH",
+          "is_required": true
+        },
+        {
+          "device_name": "MANUAL CONTROL TIMER SWITCH",
+          "is_required": false
+        },
+        {
+          "device_name": "MANUAL CONTROL DIMMER OF SCENE CONTROL",
+          "is_required": true
+        },
+        {
+          "device_name": "AUTOMATIC ON/OFF CONTROL TIMECLOCK",
+          "is_required": false
+        },
+        {
+          "device_name": "AUTOMATIC ON/OFF CONTROL OCCUPANCY SENSOR",
+          "is_required": true
+        },
+        {
+          "device_name": "AUTOMATIC ON/OFF CONTROL PHOTOCELL",
+          "is_required": false
+        },
+        {
+          "device_name": "AUTOMATIC ON/OFF CONTROL MOTION SENSOR",
+          "is_required": false
+        },
+        {
+          "device_name": "SETTINGS FULL ON",
+          "is_required": true
+        },
+        {
+          "device_name": "SETTINGS PARTIAL ON",
+          "is_required": false
+        },
+        {
+          "device_name": "SETTINGS PARTIAL OFF",
+          "is_required": true
+        },
+        {
+          "device_name": "SETTINGS FULL OFF",
+          "is_required": true
+        },
+        {
+          "device_name": "SETTINGS MANUAL ON",
+          "is_required": false
+        },
+        {
+          "device_name": "OTHER",
+          "is_required": false
+        },
+        {
+          "device_name": "COMMENTS",
+          "is_required": false
+        }
+      ]
+    }
+  ]
+}
