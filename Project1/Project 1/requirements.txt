@@ -1,0 +1,27 @@
+# P&ID Legend Analyzer v7 — dependencies
+# Install with: pip install -r requirements.txt
+
+# Core image processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# PDF handling (replaces poppler/pdf2image)
+pymupdf>=1.23.0
+
+# Excel output
+openpyxl>=3.1.0
+pandas>=2.0.0
+
+# Optional: OCR fallback (used when PDF has no embedded text layer)
+easyocr>=1.7.0
+
+# Optional: YOLO symbol detection
+ultralytics>=8.0.0
+
+# Optional: CLIP embedding matching (--clip flag)
+transformers>=4.35.0
+torch>=2.0.0
+
+# Optional: VLM confirmation via OpenAI (--vlm flag)
+openai>=1.0.0
